@@ -1,1 +1,8 @@
 /* Place CSS styles here */
+div {
+    max-width: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 12px 24px;
+} 
