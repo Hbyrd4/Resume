@@ -6,3 +6,8 @@ div {
     border-radius: 12px;
     padding: 12px 24px;
 } 
+img {
+    max-width: 300px;
+    max-height: 300px;
+    align-content: right;
+}
